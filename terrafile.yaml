@@ -1,0 +1,10 @@
+aws-vps:
+  name: terraform-aws-modules-vpc
+  source: terraform-aws-modules/vpc/aws
+  version: "2.44.0"
+aws-ecs:
+  name: terraform-aws-modules-ecs
+  source: terraform-aws-modules/ecs/aws
+  version: "2.3.0"
+
+
